@@ -1,0 +1,683 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"modul_w"
+			],
+			[
+				"mo",
+				"modul_w"
+			],
+			[
+				"modu",
+				"modul_h"
+			],
+			[
+				"modul_",
+				"modul_h"
+			],
+			[
+				"modul",
+				"modul_w"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"mous",
+				"mouseY"
+			],
+			[
+				"mou",
+				"mouseX"
+			],
+			[
+				"mouse",
+				"mouseX"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"ab",
+				"absolute\tposition"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"S",
+				"SC"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"col-2"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"animation",
+				"animation-direction\tproperty"
+			],
+			[
+				"ro",
+				"rotate()\ttransform"
+			],
+			[
+				"trs",
+				"transform"
+			],
+			[
+				"Img",
+				"IMG"
+			],
+			[
+				"Im",
+				"IMG"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"tras",
+				"translateX()\ttransform"
+			],
+			[
+				"rota",
+				"rotateX()\ttransform"
+			],
+			[
+				"trsn",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"scla",
+				"scaleZ()\ttransform"
+			],
+			[
+				"trans",
+				"translateZ()\ttransform"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"translate",
+				"translateX()\ttransform"
+			],
+			[
+				"tra",
+				"translateX()\ttransform"
+			],
+			[
+				"pull",
+				"pull-2"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"D",
+				"display\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"repea",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"img",
+				"list-style-image\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"p",
+				"pàg2"
+			],
+			[
+				"pag",
+				"pag1"
+			],
+			[
+				"U",
+				"UL\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/sketch.js",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/sketch_0.js",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/sketch_1.js",
+			"settings":
+			{
+				"buffer_size": 429,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/Sketch_Exemple.js",
+			"settings":
+			{
+				"buffer_size": 499,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/RECURSOS APLICATS INTERACTIUS/JavaScript_0/Sketch_0.js",
+		"/G/p10/Index.html",
+		"/G/p10/css/style_grid.css",
+		"/G/p10/css/style_grid_b5.css",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/Poesia/Poesia.html",
+		"/G/css/style_grid_b5.css",
+		"/G/Index.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/sitioweb/Index.html",
+		"/G/index.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/sitioweb/css/style_grid_b5.css",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/sitioweb/Index.sublime-workspace",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/sitioweb/Index",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/css/style_grid_b5.css",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p9/pages/Index",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p7/images/Sin título-1.svg",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p7/index.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p7/Sin título-1.svg",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P6/sitioweb/index_margin.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/Poesia/Poesia 2.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/Poesia/pages/pimento.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P6/sitioweb/index.html",
+		"/F/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p5/sitio web/index.html",
+		"/F/p5/sitio web/index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p5/P5.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p4/Index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p3/Index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p3/Index.sublime-workspace",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p3/Poesia.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p2/Index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p2/pagines/text.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p2/pagines/images.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p2/pagines/ancles.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p1/css/style.css",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p1/index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p1/pages/2.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/p1/pages/1.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Pages/Pag3.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Pages/Pag2.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Pages/Pag1.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Style/Style.css",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Index.html",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Imatges/archiu.svg",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Imatges/Pagina-web.jpg",
+		"/G/CLASSE/EASD ALCOI/2º/Recursos Interactius Aplicats/P0/Mauro saburre"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/sketch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/sketch_0.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/sketch_1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "js/Sketch_Exemple.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
